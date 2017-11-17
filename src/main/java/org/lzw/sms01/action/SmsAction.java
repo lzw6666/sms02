@@ -17,6 +17,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+/**
+ * 短信微服务的核心代码
+ */
 @Controller
 public class SmsAction {
 
