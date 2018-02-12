@@ -3,7 +3,7 @@ package org.lzw.sms01.dto;
 import java.io.Serializable;
 
 public class CusDTO implements Serializable{
-
+ //git 测试用
     private Long cid;
 
     private String token;
